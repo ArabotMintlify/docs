@@ -89,7 +89,7 @@
   },
   "logo": {
     "light": "/logo/arabot-logo-light.png",
-    "dark": "/logo/dark.svg"
+    "dark": "/logo/arabot-logo-dark.png"
   },
   "navbar": {
     "links": [
