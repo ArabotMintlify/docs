@@ -34,9 +34,27 @@
           {
             "group": "Building Flows",
             "pages": [
-              "flair/building-ai-agents/create-agent",
-              "flair/building-ai-agents/build-agent",
-              "flair/building-ai-agents/knowledge"
+              "flair/building-flows/create-flow",
+              "flair/building-flows/conditional-logic",
+              "flair/building-flows/real-cases"
+            ]
+          },
+          {
+            "group": "Tools",
+            "pages": [
+              "flair/tools"
+            ]
+          },
+          {
+            "group": "Guardrails",
+            "pages": [
+              "flair/guardrails"
+            ]
+          },
+          {
+            "group": "Monitoring",
+            "pages": [
+              "flair/monitoring"
             ]
           }
         ]
