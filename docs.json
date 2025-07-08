@@ -9,6 +9,22 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
+    "dropdowns": [
+      {
+        "dropdown": "Flair",
+        "icon": "robot",
+        "pages": [
+          "flair/index"
+        ]
+      },
+      {
+        "dropdown": "Campaign Manager",
+        "icon": "robot",
+        "pages": [
+          "campaign-manager/index"
+        ]
+      }
+    ],
     "tabs": [
       {
         "tab": "Guides",
