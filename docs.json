@@ -61,7 +61,7 @@
       },
       {
         "dropdown": "Campaign Manager",
-        "icon": "robot",
+        "icon": "paper-plan",
         "pages": [
           "campaign-manager/index"
         ]
