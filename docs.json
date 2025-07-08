@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Arabot Help Center",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#8054FE",
+    "light": "#8054FE",
+    "dark": "#8054FE"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -13,8 +13,32 @@
       {
         "dropdown": "Flair",
         "icon": "robot",
-        "pages": [
-          "Flair/index"
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": [
+              "flair/get-started/introduction",
+              "flair/get-started/concepts",
+              "flair/get-started/access-management",
+              "flair/get-started/billing"
+            ]
+          },
+          {
+            "group": "Building AI Agents",
+            "pages": [
+              "flair/building-ai-agents/create-agent",
+              "flair/building-ai-agents/build-agent",
+              "flair/building-ai-agents/knowledge"
+            ]
+          },
+          {
+            "group": "Building Flows",
+            "pages": [
+              "flair/building-ai-agents/create-agent",
+              "flair/building-ai-agents/build-agent",
+              "flair/building-ai-agents/knowledge"
+            ]
+          }
         ]
       },
       {
@@ -25,75 +49,48 @@
         ]
       }
     ],
-    "tabs": [
-      {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Get Started",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
-      }
-    ],
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Documentation",
+          "href": "https://mintlify.com/docs",
+          "icon": "book-open-cover"
+        },
+        {
+          "anchor": "Community",
+          "href": "https://mintlify.com/community",
+          "icon": "slack"
+        },
+        {
+          "anchor": "Blog",
+          "href": "https://mintlify.com/blog",
+          "icon": "newspaper"
+        }
+      ]
+    }
   },
   "logo": {
-    "light": "/logo/light.svg",
+    "light": "/logo/arabot-logo-light.png",
     "dark": "/logo/dark.svg"
   },
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "Sign In",
+        "href": "https://lab.arabot.io/en/login"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Request a Demo",
+      "href": "https://arabot.io/en/contact-us"
     }
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "website": "https://arabot.io",
+      "linkedin": "https://www.linkedin.com/company/arabot",
+      "x-twitter": "https://x.com/arabotio"
     }
   }
 }
