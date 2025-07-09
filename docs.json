@@ -71,7 +71,9 @@
           {
             "group": "Get Started",
             "pages": [
-              "campaign-manager/get-started/introduction"
+              "campaign-manager/get-started/introduction",
+              "campaign-manager/get-started/set-up",
+              "campaign-manager/get-started/quick-tour"
             ]
           },
           {
