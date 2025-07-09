@@ -67,8 +67,31 @@
       {
         "dropdown": "Campaign Manager",
         "icon": "paper-plane",
-        "pages": [
-          "campaign-manager/index"
+        "groups": "groups": [
+          {
+            "group": "Get Started",
+            "pages": [
+              "campaign-manager/get-started/introduction"
+            ]
+          },
+          {
+            "group": "Create a campaign",
+            "pages": [
+              "campaign-manager/create-campaign/create-campaign"
+            ]
+          },
+          {
+            "group": "Dashboard & Analytics",
+            "pages": [
+              "campaign-manager/dashboard/dashboard-analytics"
+            ]
+          },
+          {
+            "group": "Campaign Settings",
+            "pages": [
+              "campaign-manager/settings/channels"
+            ]
+          }
         ]
       }
     ],
