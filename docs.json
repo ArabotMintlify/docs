@@ -79,7 +79,9 @@
           {
             "group": "Creating your campaigns",
             "pages": [
-              "campaign-manager/create-campaign/create-campaign"
+              "campaign-manager/create-campaign/create-campaign",
+              "campaign-manager/create-campaign/schedule-campaign",
+              "campaign-manager/create-campaign/manage-campaign"
             ]
           },
           {
