@@ -67,7 +67,7 @@
       {
         "dropdown": "Campaign Manager",
         "icon": "paper-plane",
-        "groups": "groups": [
+        "groups": [
           {
             "group": "Get Started",
             "pages": [
