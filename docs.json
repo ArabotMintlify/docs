@@ -75,7 +75,7 @@
             ]
           },
           {
-            "group": "Create a campaign",
+            "group": "Creating your campaigns",
             "pages": [
               "campaign-manager/create-campaign/create-campaign"
             ]
@@ -87,9 +87,9 @@
             ]
           },
           {
-            "group": "Campaign Settings",
+            "group": "Communication Channels",
             "pages": [
-              "campaign-manager/settings/channels"
+              "campaign-manager/channels/channels"
             ]
           }
         ]
