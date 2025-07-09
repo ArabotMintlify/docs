@@ -56,6 +56,23 @@
             "pages": [
               "flair/monitoring"
             ]
+          },
+          {
+            "group": "Triggers & Integrations",
+            "pages": [
+              "flair/triggers-integrations/trigger-types",
+              "flair/triggers-integrations/webhook",
+              "flair/triggers-integrations/external-integrations"
+            ]
+          },
+          {
+            "group": "AI Models & Fine-Tuning",
+            "pages": [
+              "flair/ai-models-fine-tuning/models",
+              "flair/ai-models-fine-tuning/fine-tuning",
+              "flair/ai-models-fine-tuning/switch-models",
+              "flair/ai-models-fine-tuning/model-metrics"
+            ]
           }
         ]
       },
