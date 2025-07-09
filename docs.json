@@ -83,6 +83,13 @@
             ]
           },
           {
+            "group": "Managing Your Contacts",
+            "pages": [
+              "campaign-manager/contacts/list",
+              "campaign-manager/contacts/segment"
+            ]
+          },
+          {
             "group": "Tracking performance",
             "pages": [
               "campaign-manager/tracking-performance/dashboard-analytics"
