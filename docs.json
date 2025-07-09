@@ -106,7 +106,8 @@
           {
             "group": "Tracking performance",
             "pages": [
-              "campaign-manager/tracking-performance/dashboard-analytics"
+              "campaign-manager/tracking-performance/dashboard-analytics",
+              "campaign-manager/tracking-performance/reports"
             ]
           }
         ]
