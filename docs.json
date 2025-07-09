@@ -81,9 +81,9 @@
             ]
           },
           {
-            "group": "Dashboard & Analytics",
+            "group": "Tracking performance",
             "pages": [
-              "campaign-manager/dashboard/dashboard-analytics"
+              "campaign-manager/tracking-performance/dashboard-analytics"
             ]
           },
           {
