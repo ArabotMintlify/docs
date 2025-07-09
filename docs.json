@@ -83,10 +83,16 @@
             ]
           },
           {
-            "group": "Managing Your Contacts",
+            "group": "Managing your contacts",
             "pages": [
               "campaign-manager/contacts/list",
               "campaign-manager/contacts/segment"
+            ]
+          },
+           {
+            "group": "Creating your template",
+            "pages": [
+              "campaign-manager/templates/create-templates"
             ]
           },
           {
