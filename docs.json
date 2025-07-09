@@ -7,7 +7,7 @@
     "light": "#8054FE",
     "dark": "#8054FE"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "assets/favicon.svg",
   "navigation": {
     "dropdowns": [
       {
@@ -88,8 +88,8 @@
     }
   },
   "logo": {
-    "light": "/logo/arabot-logo-light.png",
-    "dark": "/logo/arabot-logo-dark.png"
+    "light": "assets/logo/arabot-logo-light.svg",
+    "dark": "assets/logo/arabot-logo-dark.svg"
   },
   "navbar": {
     "links": [
