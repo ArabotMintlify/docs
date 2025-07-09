@@ -75,6 +75,11 @@
     "global": {
       "anchors": [
         {
+          "anchor": "Community",
+          "href": "https://mintlify.com/community",
+          "icon": "slack"
+        },
+        {
           "anchor": "Blog",
           "href": "https://arabot.io/en/blog-post",
           "icon": "newspaper"
