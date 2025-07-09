@@ -90,21 +90,21 @@
             ]
           },
            {
-            "group": "Creating your template",
+            "group": "Creating your templates",
             "pages": [
               "campaign-manager/templates/create-templates"
-            ]
-          },
-          {
-            "group": "Tracking performance",
-            "pages": [
-              "campaign-manager/tracking-performance/dashboard-analytics"
             ]
           },
           {
             "group": "Communication Channels",
             "pages": [
               "campaign-manager/channels/channels"
+            ]
+          },
+          {
+            "group": "Tracking performance",
+            "pages": [
+              "campaign-manager/tracking-performance/dashboard-analytics"
             ]
           }
         ]
