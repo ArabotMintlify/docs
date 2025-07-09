@@ -40,6 +40,12 @@
             ]
           },
           {
+            "group": "Tools & Guardrails",
+            "pages": [
+              "flair/tools"
+            ]
+          },
+          {
             "group": "Triggers & Integrations",
             "pages": [
               "flair/triggers-integrations/trigger-types",
